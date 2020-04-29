@@ -1,4 +1,4 @@
---ProximityMe
+--ProximityMeMessage
 RegisterNetEvent('sendProximityMessageMe')
 AddEventHandler('sendProximityMessageMe', function(id, name, message)
   local myId = PlayerId()
