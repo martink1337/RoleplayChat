@@ -7,9 +7,13 @@ This is an FiveM roleplay chat script, which also has deepweb, but the goodest p
 `- Available Commands -`
 
 Proximity chat [idunno if you want it, but at anytime you can delete this]
+
 . /twt [twitter]
+
 . /dw [deepweb]
+
 . /sell [Like an shop, if you wanna sell something for the roleplay]
+
 . /roll [proximity chat feature]
 
 
