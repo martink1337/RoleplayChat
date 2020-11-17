@@ -1,7 +1,5 @@
 `- RolePlayChat -`
 
-`- From your favourite and the only one TRASHLORD -`
-
 This is an FiveM roleplay chat script, which also has deepweb, but the goodest part is, every message, automatically saves to an .txt in ur script folder
 
 `- Available Commands -`
